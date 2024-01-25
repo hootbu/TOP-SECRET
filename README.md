@@ -1,2 +1,3 @@
 # TOP-SECRET
-IT WILL BE CONFIDENTIAL UNTIL 07.02.2023.
+
+I developed a game in Python as a birthday gift for someone special and meaningful to me.
